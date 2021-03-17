@@ -1,1 +1,1 @@
-# Exploratory-Data-Analysis-on-Haberman-s-Dataset
+# Exploratory-Data-Analysis-on-Habermans-Dataset
